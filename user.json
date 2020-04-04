@@ -1,0 +1,136 @@
+{
+    "user" : [
+     {
+       "id": 1,
+       "photo": "https://i.pravatar.cc/300",
+       "name": "Fadhil",
+       "detail": {
+         "email": "fadhil@gmail.com",
+         "phone": "0897654321",
+         "address": "Jakarta"
+       },
+       "listFavorite " :{
+         "productid" : []
+       }
+     },
+     {
+      "id": 2,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Rama",
+      "detail": {
+        "email": "rama@gmail.com",
+        "phone": "0897654321",
+        "address": "Bandung"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 3,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Boby",
+      "detail": {
+        "email": "boby@gmail.com",
+        "phone": "0899654321",
+        "address": "Semarang"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 4,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Wahyu",
+      "detail": {
+        "email": "wahyu@gmail.com",
+        "phone": "0897654321",
+        "address": "Surabaya"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 5,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "John",
+      "detail": {
+        "email": "jhon@gmail.com",
+        "phone": "0897654321",
+        "address": "Solo"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 6,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "JohnLennon",
+      "detail": {
+        "email": "jhonlennon@gmail.com",
+        "phone": "0897654341",
+        "address": "Palembang"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 7,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Firman",
+      "detail": {
+        "email": "firman@gmail.com",
+        "phone": "0897654341",
+        "address": "Medan"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 8,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Dony",
+      "detail": {
+        "email": "Dony@gmail.com",
+        "phone": "0897654341",
+        "address": "Jakarta"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 9,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Malik",
+      "detail": {
+        "email": "firman@gmail.com",
+        "phone": "0897654341",
+        "address": "Jakarta"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    },
+    {
+      "id": 10,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Wahyudin",
+      "detail": {
+        "email": "wahyudin@gmail.com",
+        "phone": "0897654341",
+        "address": "Sidoarjo"
+      },
+      "listFavorite " :{
+        "productid" : []
+      }
+    }
+
+   ]
+   }
+   
