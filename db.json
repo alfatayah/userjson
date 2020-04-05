@@ -9,8 +9,7 @@
         "phone": "0897654321",
         "address": "Jakarta"
       },
-      "listFavorite " :{
-        "productid" : [
+      "listFavorite " :[
           {
             "id": 1,
             "name": "Camry",
@@ -30,10 +29,10 @@
             ],
             "price" :"636000000"
           }
-
         ]
-      }
+      
     },
+    
     {
      "id": 2,
      "photo": "https://i.pravatar.cc/300",
@@ -43,8 +42,7 @@
        "phone": "0897654321",
        "address": "Bandung"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " : [
         {
           "id": 3,
           "name": "Jazz",
@@ -65,7 +63,7 @@
           "price" :"250000000"
         }
        ]
-     }
+     
    },
    {
      "id": 3,
@@ -76,8 +74,7 @@
        "phone": "0899654321",
        "address": "Semarang"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " : [
         {
           "id": 3,
           "name": "Jazz",
@@ -118,7 +115,7 @@
           "price" :"1052000000"
         }
        ]
-     }
+     
    },
    
    {
@@ -130,8 +127,7 @@
        "phone": "0897654321",
        "address": "Surabaya"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " : [
         {
           "id": 5,
           "name": "Juke",
@@ -151,8 +147,9 @@
           "price" :"303000000"
         }
        ]
-     }
+     
    },
+
    {
      "id": 5,
      "photo": "https://i.pravatar.cc/300",
@@ -162,8 +159,7 @@
        "phone": "0897654321",
        "address": "Solo"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " : [
         {
           "id": 4,
           "name": "CityR",
@@ -185,7 +181,7 @@
         }
 
        ]
-     }
+     
    },
 
    {
@@ -197,8 +193,7 @@
        "phone": "0897654341",
        "address": "Palembang"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " :[
         {
           "id": 4,
           "name": "CityR",
@@ -219,7 +214,7 @@
           "price" :"1052000000"
         }
        ]
-     }
+     
    },
 
    {
@@ -231,8 +226,7 @@
        "phone": "0897654341",
        "address": "Medan"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " :[
         {
           "id": 7,
           "name": "Cross",
@@ -272,7 +266,6 @@
           "price" :"112000000"
         }
        ]
-     }
    },
 
    {
@@ -284,8 +277,7 @@
        "phone": "0897654341",
        "address": "Jakarta"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " :[
         {
           "id": 9,
           "name": "PajeroSport",
@@ -306,8 +298,8 @@
           "price" :"491000000"
         }
        ]
-     }
    },
+
    {
      "id": 9,
      "photo": "https://i.pravatar.cc/300",
@@ -317,8 +309,7 @@
        "phone": "0897654341",
        "address": "Jakarta"
      },
-     "listFavorite " :{
-       "productid" : [
+     "listFavorite " : [
         {
           "id": 10,
           "name": "L300",
@@ -339,39 +330,40 @@
           "price" :"186000000"
         }
        ]
-     }
    },
    {
-     "id": 10,
-     "photo": "https://i.pravatar.cc/300",
-     "name": "Wahyudin",
-     "detail": {
-       "email": "wahyudin@gmail.com",
-       "phone": "0897654341",
-       "address": "Sidoarjo"
-     },
-     "listFavorite " :{
-       "productid" : [{
-        "id": 9,
-        "name": "PajeroSport",
-        "brand": [
-          {
-            "id" : "5",
-            "name": "Mistubishi"
-          }
-         ],
-        "photo": "https://static.carmudi.co.id/e9E793bqdURihw1jYnb0PLtIw4o=/900x405/https://trenotomotif.com/ncs/images/mitsubishi/Pajero%20Sport/PajeroSport-1_ncs.jpg",
-        "category" : [
-          {
-            "id" : "2",
-            "name": "Automatic"
-          }
-     
-         ],
-        "price" :"491000000"
-      }]
-     }
-   }
+    "id": 10,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Wahyudin",
+    "detail": {
+      "email": "wahyudin@gmail.com",
+      "phone": "0897654341",
+      "address": "Jakarta"
+    },
+    "listFavorite " : [
+       {
+         "id": 9,
+         "name": "PajeroSport",
+         "brand": [
+           {
+             "id" : "5",
+             "name": "Mistubishi"
+           }
+          ],
+          "photo": "https://static.carmudi.co.id/e9E793bqdURihw1jYnb0PLtIw4o=/900x405/https://trenotomotif.com/ncs/images/mitsubishi/Pajero%20Sport/PajeroSport-1_ncs.jpg",
+          "category" : [
+           {
+             "id" : "2",
+             "name": "Automatic"
+           }
+      
+          ],
+         "price" :"491000000"
+       }
+      ]
+  }
+  
+  
 
   ]
 
