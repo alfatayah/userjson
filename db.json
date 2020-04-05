@@ -365,7 +365,356 @@
   
   
 
-  ]
+  ],
+
+  "product" : [
+    {
+      "id": 1,
+      "name": "Camry",
+      "brand": [
+       {
+         "id" : "1",
+         "name": "Toyota"
+       }
+      ],
+      "photo": "https://static.carmudi.co.id/tgBOIiLsQOU6f9O7u0ILwoDjMpg=/900x405/https://www.trenotomotif.com/ncs/images/TOYOTA/Camry/Thumbnail%20camry.jpg",
+      "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+      "price" :"636000000",
+      "listuser" : [
+        {
+          "id": 1,
+          "photo": "https://i.pravatar.cc/300",
+          "name": "Fadhil",
+          "detail": {
+            "email": "fadhil@gmail.com",
+            "phone": "0897654321",
+            "address": "Jakarta"
+              }
+        }
+      ]
+    },
+
+    {
+     "id": 2,
+     "name": "Supra",
+     "brand": [
+       {
+         "id" : "1",
+         "name": "Toyota"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/_l1c5fiQUJOTxAUy9WgOuuwBnbo=/900x405/https://trenotomotif.com/ncs/images/TOYOTA/Toyota%20Supra/Toyota_Supra.jpg",
+     "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+     "price" :"2520000000"
+   },
+
+   {
+     "id": 3,
+     "name": "Jazz",
+     "brand": [
+       {
+         "id" : "2",
+         "name": "Honda"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/mUJee9-oZ_YIEchdi7RhdqVRRmw=/900x405/https://trenotomotif.com/ncs/images/honda/Jazz/honda-jazz-2019-depan.jpg",
+     "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+     "price" :"250000000",
+     "listuser" : [
+      {
+        "id": 2,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Rama",
+        "detail": {
+          "email": "rama@gmail.com",
+          "phone": "0897654321",
+          "address": "Bandung"
+        }
+      },
+
+      {
+        "id": 3,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Boby",
+        "detail": {
+          "email": "boby@gmail.com",
+          "phone": "0899654321",
+          "address": "Semarang"
+        }
+      }
+    ]
+     
+   },
+   
+   {
+     "id": 4,
+     "name": "CityR",
+     "brand": [
+       {
+         "id" : "2",
+         "name": "Honda"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/yy5I0WmugnGBMK6nFrP900Ex1Gk=/900x405/https://trenotomotif.com/ncs/images/honda/thumb_category-r.jpg",
+     "category" : [
+       {
+         "id" : "1",
+         "name": "Manual"
+       }
+
+      ],
+     "price" :"1052000000",
+     "listuser":[
+       {
+        "id": 3,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Boby",
+        "detail": {
+          "email": "boby@gmail.com",
+          "phone": "0899654321",
+          "address": "Semarang"
+         }
+       },
+
+       {
+        "id": 5,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "John",
+        "detail": {
+          "email": "jhon@gmail.com",
+          "phone": "0897654321",
+          "address": "Solo"
+          }
+
+       },
+       
+       {
+        "id": 6,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "JohnLennon",
+        "detail": {
+          "email": "jhonlennon@gmail.com",
+          "phone": "0897654341",
+          "address": "Palembang"
+          }
+       }
+       
+     ]
+   },
+
+   {
+     "id": 5,
+     "name": "Juke",
+     "brand": [
+       {
+         "id" : "3",
+         "name": "Nissan"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/pCYeRPGeEMolEMfQh1yFzR8seXY=/900x405/https://www.trenotomotif.com/ncs/images/Thumbnail/Nissan/Nissan%20juke.jpg",
+     "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+     "price" :"303000000",
+     "listuser":[{
+      "id": 4,
+      "photo": "https://i.pravatar.cc/300",
+      "name": "Wahyu",
+      "detail": {
+        "email": "wahyu@gmail.com",
+        "phone": "0897654321",
+        "address": "Surabaya"
+       }
+
+     }
+    ]
+   },
+
+   {
+     "id": 6,
+     "name": "Livina",
+     "brand": [
+       {
+         "id" : "3",
+         "name": "Nissan"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/z-JEvSNuAeBXfMjpmCpFAgViR-g=/900x405/https://trenotomotif.com/ncs/images/nissan/Grand%20Livina/grandlivina-1_ncs.jpg",
+     "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+     "price" :"208000000"
+   },
+   {
+     "id": 7,
+     "name": "Cross",
+     "brand": [
+       {
+         "id" : "4",
+         "name": "Datsun"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/sbzfNL26zzOgk2BQXuxJ4LZ0WUY=/900x405/https://www.trenotomotif.com/ncs/images/DATSUN/Cross/Cross%20depan%203;4.jpg",
+     "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+     "price" :"161000000",
+     "listuser":[
+       {
+        "id": 7,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Firman",
+        "detail": {
+          "email": "firman@gmail.com",
+          "phone": "0897654341",
+          "address": "Medan"
+        }
+         
+
+     }
+    ]
+
+   },
+   {
+     "id": 8,
+     "name": "GoPanca",
+     "brand": [
+       {
+         "id" : "4",
+         "name": "Datsun"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/gUE80bhck0aAA83lgLpZS4I6Ufw=/900x405/https://www.trenotomotif.com/ncs/images/DATSUN/GO/GO%20Depan%203;4.jpg",
+     "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+     "price" :"112000000",
+     "listuser" :[
+       {
+        "id": 7,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Firman",
+        "detail": {
+          "email": "firman@gmail.com",
+          "phone": "0897654341",
+          "address": "Medan"
+         }
+
+       }
+     ] 
+   },
+
+   {
+     "id": 9,
+     "name": "PajeroSport",
+     "brand": [
+       {
+         "id" : "5",
+         "name": "Mistubishi"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/e9E793bqdURihw1jYnb0PLtIw4o=/900x405/https://trenotomotif.com/ncs/images/mitsubishi/Pajero%20Sport/PajeroSport-1_ncs.jpg",
+     "category" : [
+       {
+         "id" : "2",
+         "name": "Automatic"
+       }
+
+      ],
+     "price" :"491000000",
+     "listuser":[
+       {
+        "id": 8,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Dony",
+        "detail": {
+          "email": "Dony@gmail.com",
+          "phone": "0897654341",
+          "address": "Jakarta"
+         }
+       },
+       {
+        "id": 10,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Wahyudin",
+        "detail": {
+          "email": "wahyudin@gmail.com",
+          "phone": "0897654341",
+          "address": "Jakarta"
+          }
+
+       }
+     ]
+   },
+   {
+     "id": 10,
+     "name": "L300",
+     "brand": [
+       {
+         "id" : "5",
+         "name": "Mistubishi"
+       }
+      ],
+     "photo": "https://static.carmudi.co.id/rgEXLnJgKQzTskUoPvCzh3u86ks=/900x405/https://trenotomotif.com/ncs/images/mitsubishi/L300/L300-1_ncs.jpg",
+     "category" : [
+       {
+         "id" : "1",
+         "name": "Manual"
+       }
+
+      ],
+     "price" :"186000000",
+     "listuser":[
+       {
+        "id": 9,
+        "photo": "https://i.pravatar.cc/300",
+        "name": "Malik",
+        "detail": {
+          "email": "firman@gmail.com",
+          "phone": "0897654341",
+          "address": "Jakarta"
+           }
+
+       }
+     ]
+   }
+  ]  
+
+
 
    }
    
