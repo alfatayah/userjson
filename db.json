@@ -9,7 +9,7 @@
         "phone": "0897654321",
         "address": "Jakarta"
       },
-      "listFavorite " :[
+      "listFavorite" :[
           {
             "id": 1,
             "name": "Camry",
@@ -42,7 +42,7 @@
        "phone": "0897654321",
        "address": "Bandung"
      },
-     "listFavorite " : [
+     "listFavorite" : [
         {
           "id": 3,
           "name": "Jazz",
@@ -74,7 +74,7 @@
        "phone": "0899654321",
        "address": "Semarang"
      },
-     "listFavorite " : [
+     "listFavorite" : [
         {
           "id": 3,
           "name": "Jazz",
@@ -127,7 +127,7 @@
        "phone": "0897654321",
        "address": "Surabaya"
      },
-     "listFavorite " : [
+     "listFavorite" : [
         {
           "id": 5,
           "name": "Juke",
@@ -159,7 +159,7 @@
        "phone": "0897654321",
        "address": "Solo"
      },
-     "listFavorite " : [
+     "listFavorite" : [
         {
           "id": 4,
           "name": "CityR",
@@ -193,7 +193,7 @@
        "phone": "0897654341",
        "address": "Palembang"
      },
-     "listFavorite " :[
+     "listFavorite" : [
         {
           "id": 4,
           "name": "CityR",
@@ -226,7 +226,7 @@
        "phone": "0897654341",
        "address": "Medan"
      },
-     "listFavorite " :[
+     "listFavorite" :[
         {
           "id": 7,
           "name": "Cross",
@@ -277,7 +277,7 @@
        "phone": "0897654341",
        "address": "Jakarta"
      },
-     "listFavorite " :[
+     "listFavorite" :[
         {
           "id": 9,
           "name": "PajeroSport",
@@ -309,7 +309,7 @@
        "phone": "0897654341",
        "address": "Jakarta"
      },
-     "listFavorite " : [
+     "listFavorite" : [
         {
           "id": 10,
           "name": "L300",
@@ -340,7 +340,7 @@
       "phone": "0897654341",
       "address": "Jakarta"
     },
-    "listFavorite " : [
+    "listFavorite" : [
        {
          "id": 9,
          "name": "PajeroSport",
