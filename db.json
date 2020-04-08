@@ -9,7 +9,8 @@
         "phone": "0897654321",
         "address": "Jakarta"
       },
-      "listFavorite" :{
+      "listFavorite" : [      
+          {
             "id": 1,
             "name": "Camry",
             "brand": {
@@ -23,6 +24,7 @@
             },
             "price" :"636000000"
           }
+      ]
     },
     
     {
@@ -34,7 +36,8 @@
        "phone": "0897654321",
        "address": "Bandung"
      },
-     "listFavorite" : {
+     "listFavorite" : [
+       {
           "id": 3,
           "name": "Jazz",
           "brand":
@@ -49,6 +52,7 @@
             },
           "price" :"250000000"
         } 
+     ]
    },
 
    {
@@ -104,7 +108,8 @@
        "phone": "0897654321",
        "address": "Surabaya"
      },
-     "listFavorite" : {
+     "listFavorite" : [
+       {
           "id": 5,
           "name": "Juke",
           "brand": {
@@ -118,6 +123,7 @@
             },
           "price" :"303000000"
         }
+      ]
    },
 
    {
@@ -129,7 +135,8 @@
        "phone": "0897654321",
        "address": "Solo"
      },
-     "listFavorite" : {
+     "listFavorite" : [
+       {
           "id": 4,
           "name": "CityR",
           "brand": {
@@ -143,6 +150,7 @@
             },
           "price" :"1052000000"
         }
+      ]
    },
 
    {
@@ -154,7 +162,8 @@
        "phone": "0897654341",
        "address": "Palembang"
      },
-     "listFavorite" : {
+     "listFavorite" : [
+       {
           "id": 4,
           "name": "CityR",
           "brand": {
@@ -169,6 +178,7 @@
             },
           "price" :"1052000000"
         }
+      ]
    },
 
    {
@@ -223,7 +233,8 @@
        "phone": "0897654341",
        "address": "Jakarta"
      },
-     "listFavorite" : {
+     "listFavorite" : [
+       {
           "id": 9,
           "name": "PajeroSport",
           "brand": {
@@ -237,6 +248,7 @@
             },
           "price" :"491000000"
         }
+      ]
       
    },
 
@@ -249,7 +261,8 @@
        "phone": "0897654341",
        "address": "Jakarta"
      },
-     "listFavorite" : {
+     "listFavorite" : [
+       {
           "id": 10,
           "name": "L300",
           "brand": {
@@ -263,6 +276,7 @@
             },
           "price" :"186000000"
         }
+      ]
    },
    
    {
@@ -274,7 +288,8 @@
       "phone": "0897654341",
       "address": "Jakarta"
     },
-    "listFavorite" : {
+    "listFavorite" : [
+      {
          "id": 9,
          "name": "PajeroSport",
          "brand": {
@@ -288,6 +303,7 @@
            },
          "price" :"491000000"
        }
+      ]
       
   }
 
